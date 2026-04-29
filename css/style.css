@@ -30,6 +30,7 @@ p{
     background: none;
     padding: 0;
     border: none;
+    cursor: pointer;
 }
 :root {
     --font-family: "Inter", sans-serif;
